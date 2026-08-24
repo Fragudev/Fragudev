@@ -34,5 +34,5 @@ Currently focused on **AI Engineering** and AI-powered software development.
 
 ## Tech
 
-Java · Spring Boot · Kafka · PostgreSQL · MongoDB · Docker ·
+Java · Spring Boot · Kafka · RabbitMQ · Resilience4j · PostgreSQL · MongoDB · Docker ·
 LLMs · RAG · MCP
