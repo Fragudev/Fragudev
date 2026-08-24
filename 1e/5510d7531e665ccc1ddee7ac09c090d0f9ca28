@@ -1,0 +1,19 @@
+README.md
+  s_16cb05b5fac941::t_b9d6c742f66a11 37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "1e5510d7531e665ccc1ddee7ac09c090d0f9ca28",
+  "prompts": {},
+  "sessions": {
+    "s_16cb05b5fac941": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a033a2-c317-7901-aee7-4637193cb0bc",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Francis Gutiérrez <francisge@ext.inditex.com>"
+    }
+  }
+}
