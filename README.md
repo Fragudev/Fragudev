@@ -29,6 +29,12 @@ failure handling, observability and measured quality.
 Java · Spring Boot · Kafka · RabbitMQ · Resilience4j · PostgreSQL · MongoDB · Docker ·
 Spring AI · pgvector · OpenTelemetry
 
+## Outside work
+
+I build World of Warcraft addons in Lua, such as
+[addon-guild-assistant](https://github.com/Fragudev/addon-guild-assistant) and
+[addon-bis-forever](https://github.com/Fragudev/addon-bis-forever).
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/francis-guti%C3%A9rrez-espada-19051091/)
