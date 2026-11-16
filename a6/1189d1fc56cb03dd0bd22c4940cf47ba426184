@@ -1,0 +1,14 @@
+README.md
+  h_7d99c7b8818613 3-4,6-9,11,13-17,19,21-25,30-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "a61189d1fc56cb03dd0bd22c4940cf47ba426184",
+  "prompts": {},
+  "humans": {
+    "h_7d99c7b8818613": {
+      "author": "Francis Gutiérrez <francisge@ext.inditex.com>"
+    }
+  }
+}
